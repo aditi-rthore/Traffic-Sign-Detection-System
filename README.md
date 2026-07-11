@@ -23,7 +23,7 @@ Follow these steps to set up the project:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/aanchal1319/TrafficSignRecognition
+    git clone https://github.com/aditi-rthore/Traffic-Sign-Detection-System
     ```
 
 2. Navigate to the project directory:
